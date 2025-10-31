@@ -1,0 +1,32 @@
+/* assets/css/badges.css */
+
+/* 通用 badge 样式 */
+.badge {
+  display: inline-block;
+  padding: 2px 6px;
+  font-size: 85%;
+  font-weight: bold;
+  border-radius: 4px;
+  color: white;
+  white-space: nowrap;
+}
+
+/* 安全四大会议 badge */
+.badge-topsec {
+  background-color: #FF5733; /* 橙色: 可改 */
+}
+
+/* NLP 顶会 badge */
+.badge-nlp {
+  background-color: #007BFF; /* 蓝色: 可改 */
+}
+
+/* CV 顶会 badge */
+.badge-cv {
+  background-color: #28a745; /* 绿色: 可改 */
+}
+
+/* Technical Report badge */
+.badge-techreport {
+  background-color: #6c757d; /* 灰色 */
+}
