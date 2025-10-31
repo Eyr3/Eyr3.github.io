@@ -83,7 +83,7 @@ I’m always open to collaboration. Feel free to reach out at zxy_eyr3 AT foxmai
 - *2019*, Doctoral Freshman Entrance Scholarship, Zhejiang University
 - *2019*, Outstanding Graduate of Xidian University (Undergraduate level)
 - *2018*, National Scholarship (Undergraduate, Top 1%)
-- *2018*, Cybersecurity Scholarship - China Internet Development Foundation (66 undergraduate recipients nationwide)
+- *2018*, Cybersecurity Scholarship - China Internet Development Foundation
 
 
 # 🎓 Educations
