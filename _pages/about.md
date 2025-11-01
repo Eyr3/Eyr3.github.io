@@ -20,11 +20,11 @@ redirect_from:
 
 <!-- https://rayeren.github.io/, https://yubowen-ph.github.io/, https://jxu-thu.github.io/ -->
 
-I’m a researcher at Alibaba’s Tongyi Lab, working on the safety, reliability, and cultural inclusiveness of large language models. In parallel, I study speech understanding and real-time interpretation.
+I'm a researcher at Alibaba's Tongyi Lab, working on the safety, reliability, and cultural inclusiveness of large language models. In parallel, I study speech understanding and real-time interpretation.
 
-I earned my Ph.D. in 2024 from Zhejiang University, under the supervision of Prof. [Kui Ren](https://person.zju.edu.cn/kuiren) and Prof. [Zhongjie Ba](https://person.zju.edu.cn/zhongjieba), with joint guidance from Prof. [Yuan Hong](https://yhongcs.github.io/index.html) at the University of Connecticut. My research focuses on trustworthy AI, aiming to improve the safety, robustness, and privacy of multimodal models.
+I earned my Ph.D. in 2024 from Zhejiang University, under the supervision of Prof. [Kui Ren](https://person.zju.edu.cn/kuiren) and Prof. [Zhongjie Ba](https://person.zju.edu.cn/zhongjieba), with joint guidance from Prof. [Yuan Hong](https://yhongcs.github.io/index.html) at the University of Connecticut. My research focuses on trustworthy AI, aiming to improve the safety, robustness, and privacy of multimodal models. 
 
-I’m always open to collaboration. Feel free to reach out at zxy_eyr3 AT foxmail.com. We’re also recruiting intern researchers.
+I'm always open to collaboration. Feel free to reach out at zxy_eyr3 AT foxmail.com. We're also recruiting intern researchers.
 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -33,6 +33,7 @@ I’m always open to collaboration. Feel free to reach out at zxy_eyr3 AT foxmai
 # 🔥 News
 - *2025.09*: &nbsp;🎉 Our [*Qwen3-Live-Translate*](https://qwen.ai/blog?id=b2de6ae8555599bf3b87eec55a285cdf496b78e4&from=research.latest-advancements-list) multimodal simultaneous translation API has been officially released!
 - *2025.08*: &nbsp;🎉 Our paper [*CultureSynth*](https://arxiv.org/abs/2509.10886) accepted at **EMNLP 2025** 📍 Suzhou, China — see you there!
+- *2025*: &nbsp;🎉 Our paper [PrivacyAsst]((https://ieeexplore.ieee.org/abstract/document/10458329)) has been selected as a Popular Article in the **IEEE TDSC** journal!
 
 
 # 📝 Publications 
