@@ -33,7 +33,7 @@ I'm always open to collaboration. Feel free to reach out at zxy_eyr3 AT foxmail.
 # 🔥 News
 - *2025.09*: &nbsp;🎉 Our [*Qwen3-Live-Translate*](https://qwen.ai/blog?id=b2de6ae8555599bf3b87eec55a285cdf496b78e4&from=research.latest-advancements-list) multimodal simultaneous translation API has been officially released!
 - *2025.08*: &nbsp;🎉 Our paper [*CultureSynth*](https://arxiv.org/abs/2509.10886) accepted at **EMNLP 2025** 📍 Suzhou, China — see you there!
-- *2025.06*: &nbsp;🎉 Our paper [PrivacyAsst]((https://ieeexplore.ieee.org/abstract/document/10458329)) has been selected as a Popular Article in the **IEEE TDSC** journal!
+- *2025.06*: &nbsp;🎉 Our paper [*PrivacyAsst*]((https://ieeexplore.ieee.org/abstract/document/10458329)) has been selected as a Popular Article in the **IEEE TDSC** journal!
 
 
 # 📝 Publications 
