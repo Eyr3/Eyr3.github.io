@@ -20,11 +20,11 @@ redirect_from:
 
 <!-- https://rayeren.github.io/, https://yubowen-ph.github.io/, https://jxu-thu.github.io/ -->
 
-I'm a researcher at Alibaba's Tongyi Lab, working on the safety, reliability, and cultural inclusiveness of large language models. In parallel, I study speech understanding and real-time interpretation.
+I'm a researcher at Alibaba's Tongyi Lab, working on the safety, trustworthinese, and cultural inclusiveness of large language models. In parallel, I study speech understanding and real-time interpretation.
 
 I earned my Ph.D. in 2024 from Zhejiang University, under the supervision of Prof. [Kui Ren](https://person.zju.edu.cn/kuiren) and Prof. [Zhongjie Ba](https://person.zju.edu.cn/zhongjieba), with joint guidance from Prof. [Yuan Hong](https://yhongcs.github.io/index.html) at the University of Connecticut. My research focuses on trustworthy AI, aiming to improve the safety, robustness, and privacy of multimodal models. 
 
-I'm always open to collaboration. Feel free to reach out at zxy_eyr3 AT foxmail.com. We're also recruiting intern researchers.
+I'm always open to collaboration. Feel free to reach out at ixinyuzhang AT gmail.com. We're also recruiting intern researchers.
 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
