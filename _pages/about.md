@@ -31,6 +31,7 @@ I'm always open to collaboration. Feel free to reach out at ixinyuzhang AT gmail
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉 Introducing open-source  [*Qwen3-ASR*](https://qwen.ai/blog?id=qwen3asr): robust, streaming, multilingual ASR.
 - *2026.01*: &nbsp;🎉 Our [*Qwen3-TTS*](https://qwen.ai/blog?id=qwen3tts-0115) family is now open sourced!
 - *2025.09*: &nbsp;🎉 Our [*Qwen3-Live-Translate*](https://qwen.ai/blog?id=b2de6ae8555599bf3b87eec55a285cdf496b78e4&from=research.latest-advancements-list) multimodal simultaneous translation API has been officially released!
 - *2025.08*: &nbsp;🎉 Our paper [*CultureSynth*](https://arxiv.org/abs/2509.10886) accepted at **EMNLP 2025** 📍 Suzhou, China — see you there!
@@ -70,6 +71,7 @@ I'm always open to collaboration. Feel free to reach out at ixinyuzhang AT gmail
 
 
 ### Technical Reports
+- [Qwen3-ASR Technical Report](https://arxiv.org/abs/2601.21337), Qwen Team, 2026.
 - [Qwen3-TTS Technical Report](https://arxiv.org/pdf/2601.15621), Qwen Team, 2026.
 - [Qwen3-Omni Technical Report](https://arxiv.org/abs/2509.17765), Qwen Team, 2025.
 - [Qwen3Guard Technical Report](https://www.arxiv.org/abs/2510.14276), Qwen Team, 2025.
