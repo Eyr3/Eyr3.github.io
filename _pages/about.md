@@ -30,7 +30,8 @@ I'm always open to collaboration. Feel free to reach out at ixinyuzhang AT gmail
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
-# 🍀 News
+# 🪐 News 
+<!-- 🌱 -->
 - *2026.01*: Introducing open-source  [*Qwen3-ASR*](https://qwen.ai/blog?id=qwen3asr): robust, streaming, multilingual ASR.
 - *2026.01*: Our [*Qwen3-TTS*](https://qwen.ai/blog?id=qwen3tts-0115) family is now open sourced!
 - *2025.09*: Our [*Qwen3-Live-Translate*](https://qwen.ai/blog?id=b2de6ae8555599bf3b87eec55a285cdf496b78e4&from=research.latest-advancements-list) multimodal simultaneous translation API has been officially released!
@@ -57,46 +58,55 @@ I'm always open to collaboration. Feel free to reach out at ixinyuzhang AT gmail
 
 ### Conference & Journal Papers
 
-1. [CultureSynth: A Hierarchical Taxonomy-Guided and Retrieval-Augmented Framework for Cultural Question-Answer Synthesis](https://arxiv.org/abs/2509.10886)<br>
+CultureSynth: A Hierarchical Taxonomy-Guided and Retrieval-Augmented Framework for Cultural Question-Answer Synthesis<br>
    _Xinyu Zhang_, Pei Zhang, Shuang Luo, Jialong Tang, Yu Wan, Baosong Yang, Fei Huang<br>
    **EMNLP** **2025** (Findings)<br>
-   [arXiv](https://arxiv.org/abs/2509.10886) [PDF](https://aclanthology.org/2025.findings-emnlp.552.pdf)
-2. [Certifiable Black-Box Attacks with Randomized Adversarial Examples: Breaking Defenses with Provable Confidence](https://dl.acm.org/doi/abs/10.1145/3658644.3690343)<br>
+   [PDF](https://aclanthology.org/2025.findings-emnlp.552.pdf) [BENCHMARK](https://github.com/Eyr3/CultureSynth)
+
+Certifiable Black-Box Attacks with Randomized Adversarial Examples: Breaking Defenses with Provable Confidence<br>
    Hanbin Hong, _Xinyu Zhang_, Binghui Wang, Zhongjie Ba, Yuan Hong<br>
    **ACM CCS** **2024** (Top4 Sec)<br>
-   [PDF](https://dl.acm.org/doi/pdf/10.1145/3658644.3690343)
-3. [Fltracer: Accurate poisoning attack provenance in federated learning](https://ieeexplore.ieee.org/abstract/document/10549523)<br>
+   [PDF](https://dl.acm.org/doi/pdf/10.1145/3658644.3690343) [CODE](https://github.com/datasec-lab/CertifiedAttack)
+
+Fltracer: Accurate poisoning attack provenance in federated learning<br>
    _Xinyu Zhang_, Qingyu Liu, Zhongjie Ba, Yuan Hong, Tianhang Zheng, Feng Lin, Li Lu, Kui Ren<br>
    **IEEE TIFS** **2024**<br>
-   [HTML](https://ieeexplore.ieee.org/abstract/document/10549523)
-4. [Privacyasst: Safeguarding user privacy in tool-using large language model agents](https://ieeexplore.ieee.org/abstract/document/10458329)<br>
+   [PDF](https://ieeexplore.ieee.org/abstract/document/10549523) [CODE](https://github.com/Eyr3/FLTracer)
+
+Privacyasst: Safeguarding user privacy in tool-using large language model agents<br>
    _Xinyu Zhang_, Huiyu Xu, Zhongjie Ba, Zhibo Wang, Yuan Hong, Jian Liu, Zhan Qin, Kui Ren<br>
    **IEEE TDSC** **2024**<br>
-   [HTML](https://ieeexplore.ieee.org/abstract/document/10458329)
-5. [Text-CRS: A Generalized Certified Robustness Framework against Textual Adversarial Attacks](https://ieeexplore.ieee.org/abstract/document/10646716)<br>
+   [PDF](https://ieeexplore.ieee.org/abstract/document/10458329) [CODE](https://github.com/Eyr3/PrivacyAsst)
+
+Text-CRS: A Generalized Certified Robustness Framework against Textual Adversarial Attacks<br>
    _Xinyu Zhang_, Hanbin Hong, Yuan Hong, Peng Huang, Binghui Wang, Zhongjie Ba, Kui Ren<br>
    **IEEE S&P** **2024** (Top4 Sec)<br>
-   [HTML](https://ieeexplore.ieee.org/abstract/document/10646716)
-6. [An efficient e2e crowd verifiable e-voting system](https://ieeexplore.ieee.org/abstract/document/9512489)<br>
+   [PDF](https://ieeexplore.ieee.org/abstract/document/10646716) [CODE](https://github.com/Eyr3/TextCRS)
+
+An efficient e2e crowd verifiable e-voting system<br>
    _Xinyu Zhang_, Bingsheng Zhang, Aggelos Kiayias, Thomas Zacharias, Kui Ren<br>
    **IEEE TDSC** **2021**<br>
-   [HTML](https://ieeexplore.ieee.org/abstract/document/9512489)
-7. [隐私保护的加密流量检测研究](https://kns.cnki.net/kcms2/article/abstract?v=YFFVSRMG_GGija_TtPeryL2W2fTgqsVHBTv0RE45kA8z8qo7KKtZLKYO8Nbsb__kDi0iF8jzgTaIeyoXz1Bf9ZN5LCaYiO9ZulEc6Rp1s3JbNOOMTtMSqHG7hPHL4T9jZL7FeRkX1NUkFCXljR6kgHXgRDheVlnNnZPaPoxA3sMljKVHgrNiaQ==&uniplatform=NZKPT&language=CHS)<br>
+   [PDF](https://ieeexplore.ieee.org/abstract/document/9512489)
+
+隐私保护的加密流量检测研究<br>
    _Xinyu Zhang_, Bingsheng Zhang, Quanrun Meng, Kui Ren<br>
    **CJNIS** **2021** · 网络与信息安全学报<br>
-   [HTML](https://kns.cnki.net/kcms2/article/abstract?v=YFFVSRMG_GGija_TtPeryL2W2fTgqsVHBTv0RE45kA8z8qo7KKtZLKYO8Nbsb__kDi0iF8jzgTaIeyoXz1Bf9ZN5LCaYiO9ZulEc6Rp1s3JbNOOMTtMSqHG7hPHL4T9jZL7FeRkX1NUkFCXljR6kgHXgRDheVlnNnZPaPoxA3sMljKVHgrNiaQ==&uniplatform=NZKPT&language=CHS)
-8. [Learning-based Practical Smartphone Eavesdropping with Built-in Accelerometer](https://iqua.ece.toronto.edu/papers/tzheng-ndss20.pdf)<br>
+   [PDF](https://kns.cnki.net/kcms2/article/abstract?v=YFFVSRMG_GGija_TtPeryL2W2fTgqsVHBTv0RE45kA8z8qo7KKtZLKYO8Nbsb__kDi0iF8jzgTaIeyoXz1Bf9ZN5LCaYiO9ZulEc6Rp1s3JbNOOMTtMSqHG7hPHL4T9jZL7FeRkX1NUkFCXljR6kgHXgRDheVlnNnZPaPoxA3sMljKVHgrNiaQ==&uniplatform=NZKPT&language=CHS)
+
+Learning-based Practical Smartphone Eavesdropping with Built-in Accelerometer<br>
    Zhongjie Ba, Tianhang Zheng, _Xinyu Zhang_, Zhan Qin, Baochun Li, Xue Liu, Kui Ren<br>
    **NDSS** **2020** (Top4 Sec)<br>
    [PDF](https://iqua.ece.toronto.edu/papers/tzheng-ndss20.pdf)
-9. [CFP: Enabling camera fingerprint concealment for privacy-preserving image sharing](https://ieeexplore.ieee.org/abstract/document/8885093)<br>
+
+CFP: Enabling camera fingerprint concealment for privacy-preserving image sharing<br>
    Zhongjie Ba, _Xinyu Zhang_, Zhan Qin, Kui Ren<br>
    **IEEE ICDCS** **2019**<br>
-   [HTML](https://ieeexplore.ieee.org/abstract/document/8885093)
-10. [Scattering of an Airy light-sheet by a non-spherical particle using discrete dipole approximation](https://www.sciencedirect.com/science/article/pii/S0022407318304552)<br>
+   [PDF](https://ieeexplore.ieee.org/abstract/document/8885093)
+
+Scattering of an Airy light-sheet by a non-spherical particle using discrete dipole approximation<br>
     _Xinyu Zhang_, Yiming Yang, Jiaming Zhang, Renxian Li<br>
     **JQSRT** **2019**<br>
-    [HTML](https://www.sciencedirect.com/science/article/pii/S0022407318304552)
+    [PDF](https://www.sciencedirect.com/science/article/pii/S0022407318304552)
 
 
 <!-- - CultureSynth: A Hierarchical Taxonomy-Guided and Retrieval-Augmented Framework for Cultural Question-Answer Synthesis<br>**Xinyu Zhang**, Pei Zhang, Shuang Luo, Jialong Tang, Yu Wan, Baosong Yang, Fei Huang, <br>EMNLP-Findings 2025. [PDF](https://aclanthology.org/2025.findings-emnlp.552.pdf)
