@@ -95,6 +95,16 @@
     }
   }
 
+  /* e.g. [PDF] / [CODE] resource links in publication lists */
+  a.paper-link {
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: none;
+      opacity: 0.85;
+    }
+  }
+
   dt {
     margin-top: 1em;
     font-family: $sans-serif;
