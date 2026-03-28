@@ -64,7 +64,7 @@ I'm always open to collaboration. Feel free to reach out at ixinyuzhang AT gmail
    **EMNLP** **2025** (Findings)
 
 - Certifiable Black-Box Attacks with Randomized Adversarial Examples: Breaking Defenses with Provable Confidence, 
-   <a href="https://dl.acm.org/doi/pdf/10.1145/3658644.3690343" class="paper-link">[PDF]</a> <a href="https://github.com/datasec-lab/CertifiedAttack" class="paper-link">[CODE]</a><br>
+   <a href="https://dl.acm.org/doi/pdf/10.1145/3658644.3690343" class="paper-link">[PDF]</a> <a href="https://github.com/datasec-lab/CertifiedAttack" class="paper-link">[CODE]</a> <a href="https://mp.weixin.qq.com/s/DwDO1m7UIPFvDT0P0CQ6Hg" class="paper-link">[MEDIA]</a><br>
    Hanbin Hong, <span class="author-self">Xinyu Zhang</span>, Binghui Wang, Zhongjie Ba, Yuan Hong<br>
    **ACM CCS** **2024** (Top4 Sec)
 
@@ -79,7 +79,7 @@ I'm always open to collaboration. Feel free to reach out at ixinyuzhang AT gmail
    <a href="https://ieeexplore.ieee.org/abstract/document/10458329" class="paper-link">[PDF]</a> <a href="https://github.com/Eyr3/PrivacyAsst" class="paper-link">[CODE]</a>
 
 - Text-CRS: A Generalized Certified Robustness Framework against Textual Adversarial Attacks, 
-   <a href="https://ieeexplore.ieee.org/abstract/document/10646716" class="paper-link">[PDF]</a> <a href="https://github.com/Eyr3/TextCRS" class="paper-link">[CODE]</a><br>
+   <a href="https://ieeexplore.ieee.org/abstract/document/10646716" class="paper-link">[PDF]</a> <a href="https://github.com/Eyr3/TextCRS" class="paper-link">[CODE]</a> <a href="https://mp.weixin.qq.com/s/aYlboHhN__adVELmBNBqLA" class="paper-link">[MEDIA]</a><br>
    <span class="author-self">Xinyu Zhang</span>, Hanbin Hong, Yuan Hong, Peng Huang, Binghui Wang, Zhongjie Ba, Kui Ren<br>
    **IEEE S&P** **2024** (Top4 Sec)
 
