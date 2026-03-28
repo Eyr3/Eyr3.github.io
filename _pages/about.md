@@ -30,15 +30,15 @@ I'm always open to collaboration. Feel free to reach out at ixinyuzhang AT gmail
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
-# 🔥 News
-- *2026.01*: &nbsp;🎉 Introducing open-source  [*Qwen3-ASR*](https://qwen.ai/blog?id=qwen3asr): robust, streaming, multilingual ASR.
-- *2026.01*: &nbsp;🎉 Our [*Qwen3-TTS*](https://qwen.ai/blog?id=qwen3tts-0115) family is now open sourced!
-- *2025.09*: &nbsp;🎉 Our [*Qwen3-Live-Translate*](https://qwen.ai/blog?id=b2de6ae8555599bf3b87eec55a285cdf496b78e4&from=research.latest-advancements-list) multimodal simultaneous translation API has been officially released!
-- *2025.08*: &nbsp;🎉 Our paper [*CultureSynth*](https://arxiv.org/abs/2509.10886) accepted at **EMNLP 2025** 📍 Suzhou, China — see you there!
-- *2025.06*: &nbsp;🎉 Our paper [*PrivacyAsst*]((https://ieeexplore.ieee.org/abstract/document/10458329)) has been selected as a Popular Article in the **IEEE TDSC** journal!
+# 🍀 News
+- *2026.01*: Introducing open-source  [*Qwen3-ASR*](https://qwen.ai/blog?id=qwen3asr): robust, streaming, multilingual ASR.
+- *2026.01*: Our [*Qwen3-TTS*](https://qwen.ai/blog?id=qwen3tts-0115) family is now open sourced!
+- *2025.09*: Our [*Qwen3-Live-Translate*](https://qwen.ai/blog?id=b2de6ae8555599bf3b87eec55a285cdf496b78e4&from=research.latest-advancements-list) multimodal simultaneous translation API has been officially released!
+- *2025.08*: Our paper [*CultureSynth*](https://arxiv.org/abs/2509.10886) accepted at **EMNLP 2025** 📍 Suzhou, China — see you there!
+- *2025.06*: Our paper [*PrivacyAsst*]((https://ieeexplore.ieee.org/abstract/document/10458329)) has been selected as a Popular Article in the **IEEE TDSC** journal!
 
 
-# 📝 Publications 
+# 🥝 Publications 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -57,7 +57,49 @@ I'm always open to collaboration. Feel free to reach out at ixinyuzhang AT gmail
 
 ### Conference & Journal Papers
 
-- <span style="background-color:#007BFF; color:white; padding:2px 6px; border-radius:4px; font-size:90%; font-weight:bold;">EMNLP 2025</span> [CultureSynth: A Hierarchical Taxonomy-Guided and Retrieval-Augmented Framework for Cultural Question-Answer Synthesis](https://arxiv.org/abs/2509.10886)<br>**Xinyu Zhang**, Pei Zhang, Shuang Luo, Jialong Tang, Yu Wan, Baosong Yang, Fei Huang, 2025.
+1. [CultureSynth: A Hierarchical Taxonomy-Guided and Retrieval-Augmented Framework for Cultural Question-Answer Synthesis](https://arxiv.org/abs/2509.10886)<br>
+   _Xinyu Zhang_, Pei Zhang, Shuang Luo, Jialong Tang, Yu Wan, Baosong Yang, Fei Huang<br>
+   **EMNLP** **2025** (Findings)<br>
+   [arXiv](https://arxiv.org/abs/2509.10886) [PDF](https://aclanthology.org/2025.findings-emnlp.552.pdf)
+2. [Certifiable Black-Box Attacks with Randomized Adversarial Examples: Breaking Defenses with Provable Confidence](https://dl.acm.org/doi/abs/10.1145/3658644.3690343)<br>
+   Hanbin Hong, _Xinyu Zhang_, Binghui Wang, Zhongjie Ba, Yuan Hong<br>
+   **ACM CCS** **2024** (Top4 Sec)<br>
+   [PDF](https://dl.acm.org/doi/pdf/10.1145/3658644.3690343)
+3. [Fltracer: Accurate poisoning attack provenance in federated learning](https://ieeexplore.ieee.org/abstract/document/10549523)<br>
+   _Xinyu Zhang_, Qingyu Liu, Zhongjie Ba, Yuan Hong, Tianhang Zheng, Feng Lin, Li Lu, Kui Ren<br>
+   **IEEE TIFS** **2024**<br>
+   [HTML](https://ieeexplore.ieee.org/abstract/document/10549523)
+4. [Privacyasst: Safeguarding user privacy in tool-using large language model agents](https://ieeexplore.ieee.org/abstract/document/10458329)<br>
+   _Xinyu Zhang_, Huiyu Xu, Zhongjie Ba, Zhibo Wang, Yuan Hong, Jian Liu, Zhan Qin, Kui Ren<br>
+   **IEEE TDSC** **2024**<br>
+   [HTML](https://ieeexplore.ieee.org/abstract/document/10458329)
+5. [Text-CRS: A Generalized Certified Robustness Framework against Textual Adversarial Attacks](https://ieeexplore.ieee.org/abstract/document/10646716)<br>
+   _Xinyu Zhang_, Hanbin Hong, Yuan Hong, Peng Huang, Binghui Wang, Zhongjie Ba, Kui Ren<br>
+   **IEEE S&P** **2024** (Top4 Sec)<br>
+   [HTML](https://ieeexplore.ieee.org/abstract/document/10646716)
+6. [An efficient e2e crowd verifiable e-voting system](https://ieeexplore.ieee.org/abstract/document/9512489)<br>
+   _Xinyu Zhang_, Bingsheng Zhang, Aggelos Kiayias, Thomas Zacharias, Kui Ren<br>
+   **IEEE TDSC** **2021**<br>
+   [HTML](https://ieeexplore.ieee.org/abstract/document/9512489)
+7. [隐私保护的加密流量检测研究](https://kns.cnki.net/kcms2/article/abstract?v=YFFVSRMG_GGija_TtPeryL2W2fTgqsVHBTv0RE45kA8z8qo7KKtZLKYO8Nbsb__kDi0iF8jzgTaIeyoXz1Bf9ZN5LCaYiO9ZulEc6Rp1s3JbNOOMTtMSqHG7hPHL4T9jZL7FeRkX1NUkFCXljR6kgHXgRDheVlnNnZPaPoxA3sMljKVHgrNiaQ==&uniplatform=NZKPT&language=CHS)<br>
+   _Xinyu Zhang_, Bingsheng Zhang, Quanrun Meng, Kui Ren<br>
+   **CJNIS** **2021** · 网络与信息安全学报<br>
+   [HTML](https://kns.cnki.net/kcms2/article/abstract?v=YFFVSRMG_GGija_TtPeryL2W2fTgqsVHBTv0RE45kA8z8qo7KKtZLKYO8Nbsb__kDi0iF8jzgTaIeyoXz1Bf9ZN5LCaYiO9ZulEc6Rp1s3JbNOOMTtMSqHG7hPHL4T9jZL7FeRkX1NUkFCXljR6kgHXgRDheVlnNnZPaPoxA3sMljKVHgrNiaQ==&uniplatform=NZKPT&language=CHS)
+8. [Learning-based Practical Smartphone Eavesdropping with Built-in Accelerometer](https://iqua.ece.toronto.edu/papers/tzheng-ndss20.pdf)<br>
+   Zhongjie Ba, Tianhang Zheng, _Xinyu Zhang_, Zhan Qin, Baochun Li, Xue Liu, Kui Ren<br>
+   **NDSS** **2020** (Top4 Sec)<br>
+   [PDF](https://iqua.ece.toronto.edu/papers/tzheng-ndss20.pdf)
+9. [CFP: Enabling camera fingerprint concealment for privacy-preserving image sharing](https://ieeexplore.ieee.org/abstract/document/8885093)<br>
+   Zhongjie Ba, _Xinyu Zhang_, Zhan Qin, Kui Ren<br>
+   **IEEE ICDCS** **2019**<br>
+   [HTML](https://ieeexplore.ieee.org/abstract/document/8885093)
+10. [Scattering of an Airy light-sheet by a non-spherical particle using discrete dipole approximation](https://www.sciencedirect.com/science/article/pii/S0022407318304552)<br>
+    _Xinyu Zhang_, Yiming Yang, Jiaming Zhang, Renxian Li<br>
+    **JQSRT** **2019**<br>
+    [HTML](https://www.sciencedirect.com/science/article/pii/S0022407318304552)
+
+
+<!-- - CultureSynth: A Hierarchical Taxonomy-Guided and Retrieval-Augmented Framework for Cultural Question-Answer Synthesis<br>**Xinyu Zhang**, Pei Zhang, Shuang Luo, Jialong Tang, Yu Wan, Baosong Yang, Fei Huang, <br>EMNLP-Findings 2025. [PDF](https://aclanthology.org/2025.findings-emnlp.552.pdf)
 - <span style="background-color:#007BFF; color:white; padding:2px 6px; border-radius:4px; font-size:90%; font-weight:bold;">CCS 2024</span> <span style="background-color:#6C757D; color:white; padding:2px 6px; border-radius:4px; font-size:80%;">Top4 Sec</span> [Certifiable Black-Box Attacks with Randomized Adversarial Examples: Breaking Defenses with Provable Confidence](https://dl.acm.org/doi/abs/10.1145/3658644.3690343)<br>Hanbin Hong, **Xinyu Zhang**, Binghui Wang, Zhongjie Ba, Yuan Hong, 2024.
 - <span style="background-color:#007BFF; color:white; padding:2px 6px; border-radius:4px; font-size:90%; font-weight:bold;">TIFS 2024</span> [Fltracer: Accurate poisoning attack provenance in federated learning](https://ieeexplore.ieee.org/abstract/document/10549523)<br>**Xinyu Zhang**, Qingyu Liu, Zhongjie Ba, Yuan Hong, Tianhang Zheng, Feng Lin, Li Lu, Kui Ren, 2024.
 - <span style="background-color:#007BFF; color:white; padding:2px 6px; border-radius:4px; font-size:90%; font-weight:bold;">TDSC 2024</span> [Privacyasst: Safeguarding user privacy in tool-using large language model agents](https://ieeexplore.ieee.org/abstract/document/10458329)<br>**Xinyu Zhang**, Huiyu Xu, Zhongjie Ba, Zhibo Wang, Yuan Hong, Jian Liu, Zhan Qin, Kui Ren, 2024.
@@ -65,9 +107,19 @@ I'm always open to collaboration. Feel free to reach out at ixinyuzhang AT gmail
 - <span style="background-color:#007BFF; color:white; padding:2px 6px; border-radius:4px; font-size:90%; font-weight:bold;">TDSC 2021</span> [An efficient e2e crowd verifiable e-voting system](https://ieeexplore.ieee.org/abstract/document/9512489)<br>**Xinyu Zhang**, Bingsheng Zhang, Aggelos Kiayias, Thomas Zacharias, Kui Ren, 2021.
 - <span style="background-color:#007BFF; color:white; padding:2px 6px; border-radius:4px; font-size:90%; font-weight:bold;">CJNIS 2021</span> [隐私保护的加密流量检测研究](https://kns.cnki.net/kcms2/article/abstract?v=YFFVSRMG_GGija_TtPeryL2W2fTgqsVHBTv0RE45kA8z8qo7KKtZLKYO8Nbsb__kDi0iF8jzgTaIeyoXz1Bf9ZN5LCaYiO9ZulEc6Rp1s3JbNOOMTtMSqHG7hPHL4T9jZL7FeRkX1NUkFCXljR6kgHXgRDheVlnNnZPaPoxA3sMljKVHgrNiaQ==&uniplatform=NZKPT&language=CHS)<br>**Xinyu Zhang**, Bingsheng Zhang, Quanrun Meng, Kui Ren, 网络与信息安全学报 2021.
 - <span style="background-color:#007BFF; color:white; padding:2px 6px; border-radius:4px; font-size:90%; font-weight:bold;">NDSS 2020</span> <span style="background-color:#6C757D; color:white; padding:2px 6px; border-radius:4px; font-size:80%;">Top4 Sec</span> [Learning-based Practical Smartphone Eavesdropping with Built-in Accelerometer](https://iqua.ece.toronto.edu/papers/tzheng-ndss20.pdf)<br>Zhongjie Ba, Tianhang Zheng, **Xinyu Zhang**, Zhan Qin, Baochun Li, Xue Liu, Kui Ren, 2020.
-<!-- - <span class="badge badge-topsec" title="One of the Top 4 security conferences (IEEE S&P, USENIX Security, ACM CCS, NDSS)">NDSS 2020</span>[Learning-based Practical Smartphone Eavesdropping with Built-in Accelerometer](https://iqua.ece.toronto.edu/papers/tzheng-ndss20.pdf)<br>Zhongjie Ba, Tianhang Zheng, **Xinyu Zhang**, Zhan Qin, Baochun Li, Xue Liu, Kui Ren, 2020. -->
 - <span style="background-color:#007BFF; color:white; padding:2px 6px; border-radius:4px; font-size:90%; font-weight:bold;">ICDCS 2019</span> [CFP: Enabling camera fingerprint concealment for privacy-preserving image sharing](https://ieeexplore.ieee.org/abstract/document/8885093)<br>Zhongjie Ba, **Xinyu Zhang**, Zhan Qin, Kui Ren, 2019.
-- <span style="background-color:#007BFF; color:white; padding:2px 6px; border-radius:4px; font-size:90%; font-weight:bold;">JQSRT 2019</span> [Scattering of an Airy light-sheet by a non-spherical particle using discrete dipole approximation](https://www.sciencedirect.com/science/article/pii/S0022407318304552)<br>**Xinyu Zhang**, Yiming Yang, Jiaming Zhang, Renxian Li, 2019.
+- <span style="background-color:#007BFF; color:white; padding:2px 6px; border-radius:4px; font-size:90%; font-weight:bold;">JQSRT 2019</span> [Scattering of an Airy light-sheet by a non-spherical particle using discrete dipole approximation](https://www.sciencedirect.com/science/article/pii/S0022407318304552)<br>**Xinyu Zhang**, Yiming Yang, Jiaming Zhang, Renxian Li, 2019. -->
+
+<!-- - <span style="background-color:#007BFF; color:white; padding:2px 6px; border-radius:4px; font-size:90%; font-weight:bold;">EMNLP 2025</span> [CultureSynth: A Hierarchical Taxonomy-Guided and Retrieval-Augmented Framework for Cultural Question-Answer Synthesis](https://arxiv.org/abs/2509.10886)<br>**Xinyu Zhang**, Pei Zhang, Shuang Luo, Jialong Tang, Yu Wan, Baosong Yang, Fei Huang, 2025.
+- <span style="background-color:#007BFF; color:white; padding:2px 6px; border-radius:4px; font-size:90%; font-weight:bold;">CCS 2024</span> <span style="background-color:#6C757D; color:white; padding:2px 6px; border-radius:4px; font-size:80%;">Top4 Sec</span> [Certifiable Black-Box Attacks with Randomized Adversarial Examples: Breaking Defenses with Provable Confidence](https://dl.acm.org/doi/abs/10.1145/3658644.3690343)<br>Hanbin Hong, **Xinyu Zhang**, Binghui Wang, Zhongjie Ba, Yuan Hong, 2024.
+- <span style="background-color:#007BFF; color:white; padding:2px 6px; border-radius:4px; font-size:90%; font-weight:bold;">TIFS 2024</span> [Fltracer: Accurate poisoning attack provenance in federated learning](https://ieeexplore.ieee.org/abstract/document/10549523)<br>**Xinyu Zhang**, Qingyu Liu, Zhongjie Ba, Yuan Hong, Tianhang Zheng, Feng Lin, Li Lu, Kui Ren, 2024.
+- <span style="background-color:#007BFF; color:white; padding:2px 6px; border-radius:4px; font-size:90%; font-weight:bold;">TDSC 2024</span> [Privacyasst: Safeguarding user privacy in tool-using large language model agents](https://ieeexplore.ieee.org/abstract/document/10458329)<br>**Xinyu Zhang**, Huiyu Xu, Zhongjie Ba, Zhibo Wang, Yuan Hong, Jian Liu, Zhan Qin, Kui Ren, 2024.
+- <span style="background-color:#007BFF; color:white; padding:2px 6px; border-radius:4px; font-size:90%; font-weight:bold;">S&P 2024</span> <span style="background-color:#6C757D; color:white; padding:2px 6px; border-radius:4px; font-size:80%;">Top4 Sec</span> [Text-CRS: A Generalized Certified Robustness Framework against Textual Adversarial Attacks](https://ieeexplore.ieee.org/abstract/document/10646716)<br>**Xinyu Zhang**, Hanbin Hong, Yuan Hong, Peng Huang, Binghui Wang, Zhongjie Ba, Kui Ren, 2024.
+- <span style="background-color:#007BFF; color:white; padding:2px 6px; border-radius:4px; font-size:90%; font-weight:bold;">TDSC 2021</span> [An efficient e2e crowd verifiable e-voting system](https://ieeexplore.ieee.org/abstract/document/9512489)<br>**Xinyu Zhang**, Bingsheng Zhang, Aggelos Kiayias, Thomas Zacharias, Kui Ren, 2021.
+- <span style="background-color:#007BFF; color:white; padding:2px 6px; border-radius:4px; font-size:90%; font-weight:bold;">CJNIS 2021</span> [隐私保护的加密流量检测研究](https://kns.cnki.net/kcms2/article/abstract?v=YFFVSRMG_GGija_TtPeryL2W2fTgqsVHBTv0RE45kA8z8qo7KKtZLKYO8Nbsb__kDi0iF8jzgTaIeyoXz1Bf9ZN5LCaYiO9ZulEc6Rp1s3JbNOOMTtMSqHG7hPHL4T9jZL7FeRkX1NUkFCXljR6kgHXgRDheVlnNnZPaPoxA3sMljKVHgrNiaQ==&uniplatform=NZKPT&language=CHS)<br>**Xinyu Zhang**, Bingsheng Zhang, Quanrun Meng, Kui Ren, 网络与信息安全学报 2021.
+- <span style="background-color:#007BFF; color:white; padding:2px 6px; border-radius:4px; font-size:90%; font-weight:bold;">NDSS 2020</span> <span style="background-color:#6C757D; color:white; padding:2px 6px; border-radius:4px; font-size:80%;">Top4 Sec</span> [Learning-based Practical Smartphone Eavesdropping with Built-in Accelerometer](https://iqua.ece.toronto.edu/papers/tzheng-ndss20.pdf)<br>Zhongjie Ba, Tianhang Zheng, **Xinyu Zhang**, Zhan Qin, Baochun Li, Xue Liu, Kui Ren, 2020.
+- <span style="background-color:#007BFF; color:white; padding:2px 6px; border-radius:4px; font-size:90%; font-weight:bold;">ICDCS 2019</span> [CFP: Enabling camera fingerprint concealment for privacy-preserving image sharing](https://ieeexplore.ieee.org/abstract/document/8885093)<br>Zhongjie Ba, **Xinyu Zhang**, Zhan Qin, Kui Ren, 2019.
+- <span style="background-color:#007BFF; color:white; padding:2px 6px; border-radius:4px; font-size:90%; font-weight:bold;">JQSRT 2019</span> [Scattering of an Airy light-sheet by a non-spherical particle using discrete dipole approximation](https://www.sciencedirect.com/science/article/pii/S0022407318304552)<br>**Xinyu Zhang**, Yiming Yang, Jiaming Zhang, Renxian Li, 2019. -->
 
 
 ### Technical Reports
