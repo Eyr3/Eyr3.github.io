@@ -58,50 +58,50 @@ I'm always open to collaboration. Feel free to reach out at ixinyuzhang AT gmail
 
 ### Conference & Journal Papers (Selected)
 
-- CultureSynth: A Hierarchical Taxonomy-Guided and Retrieval-Augmented Framework for Cultural Question-Answer Synthesis,
-   <a href="https://aclanthology.org/2025.findings-emnlp.552.pdf" class="paper-link">[PDF]</a> <a href="https://github.com/Eyr3/CultureSynth" class="paper-link">[BENCHMARK]</a><br>
+- CultureSynth: A Hierarchical Taxonomy-Guided and Retrieval-Augmented Framework for Cultural Question-Answer Synthesis<br>
    <span class="author-self">Xinyu Zhang</span>, Pei Zhang, Shuang Luo, Jialong Tang, Yu Wan, Baosong Yang, Fei Huang<br>
-   **EMNLP** **2025** (Findings)
+   **EMNLP** **2025** (Findings)<br>
+   <a href="https://aclanthology.org/2025.findings-emnlp.552.pdf" class="paper-link">[PDF]</a> <a href="https://github.com/Eyr3/CultureSynth" class="paper-link">[BENCHMARK]</a>
 
-- Certifiable Black-Box Attacks with Randomized Adversarial Examples: Breaking Defenses with Provable Confidence, 
-   <a href="https://dl.acm.org/doi/pdf/10.1145/3658644.3690343" class="paper-link">[PDF]</a> <a href="https://github.com/datasec-lab/CertifiedAttack" class="paper-link">[CODE]</a> <a href="https://mp.weixin.qq.com/s/DwDO1m7UIPFvDT0P0CQ6Hg" class="paper-link">[MEDIA]</a><br>
+- Certifiable Black-Box Attacks with Randomized Adversarial Examples: Breaking Defenses with Provable Confidence<br>
    Hanbin Hong, <span class="author-self">Xinyu Zhang</span>, Binghui Wang, Zhongjie Ba, Yuan Hong<br>
-   **ACM CCS** **2024** (Top4 Sec)
+   **ACM CCS** **2024** (Security Top 4)<br>
+   <a href="https://dl.acm.org/doi/pdf/10.1145/3658644.3690343" class="paper-link">[PDF]</a> <a href="https://github.com/datasec-lab/CertifiedAttack" class="paper-link">[CODE]</a> <a href="https://mp.weixin.qq.com/s/DwDO1m7UIPFvDT0P0CQ6Hg" class="paper-link">[MEDIA]</a>
 
-- Fltracer: Accurate poisoning attack provenance in federated learning, 
-   <a href="https://ieeexplore.ieee.org/abstract/document/10549523" class="paper-link">[PDF]</a> <a href="https://github.com/Eyr3/FLTracer" class="paper-link">[CODE]</a><br>
+- Fltracer: Accurate poisoning attack provenance in federated learning<br>
    <span class="author-self">Xinyu Zhang</span>, Qingyu Liu, Zhongjie Ba, Yuan Hong, Tianhang Zheng, Feng Lin, Li Lu, Kui Ren<br>
-   **IEEE TIFS** **2024**
+   **IEEE TIFS** **2024**<br>
+   <a href="https://ieeexplore.ieee.org/abstract/document/10549523" class="paper-link">[PDF]</a> <a href="https://github.com/Eyr3/FLTracer" class="paper-link">[CODE]</a>
 
 - Privacyasst: Safeguarding user privacy in tool-using large language model agents<br>
    <span class="author-self">Xinyu Zhang</span>, Huiyu Xu, Zhongjie Ba, Zhibo Wang, Yuan Hong, Jian Liu, Zhan Qin, Kui Ren<br>
-   **IEEE TDSC** **2024**, 
+   **IEEE TDSC** **2024**<br> 
    <a href="https://ieeexplore.ieee.org/abstract/document/10458329" class="paper-link">[PDF]</a> <a href="https://github.com/Eyr3/PrivacyAsst" class="paper-link">[CODE]</a>
 
-- Text-CRS: A Generalized Certified Robustness Framework against Textual Adversarial Attacks, 
-   <a href="https://ieeexplore.ieee.org/abstract/document/10646716" class="paper-link">[PDF]</a> <a href="https://github.com/Eyr3/TextCRS" class="paper-link">[CODE]</a> <a href="https://mp.weixin.qq.com/s/aYlboHhN__adVELmBNBqLA" class="paper-link">[MEDIA]</a><br>
+- Text-CRS: A Generalized Certified Robustness Framework against Textual Adversarial Attacks<br>
    <span class="author-self">Xinyu Zhang</span>, Hanbin Hong, Yuan Hong, Peng Huang, Binghui Wang, Zhongjie Ba, Kui Ren<br>
-   **IEEE S&P** **2024** (Top4 Sec)
+   **IEEE S&P** **2024** (Security Top 4)<br>
+   <a href="https://ieeexplore.ieee.org/abstract/document/10646716" class="paper-link">[PDF]</a> <a href="https://github.com/Eyr3/TextCRS" class="paper-link">[CODE]</a> <a href="https://mp.weixin.qq.com/s/aYlboHhN__adVELmBNBqLA" class="paper-link">[MEDIA]</a>
 
-- An efficient e2e crowd verifiable e-voting system, 
-   <a href="https://ieeexplore.ieee.org/abstract/document/9512489" class="paper-link">[PDF]</a><br>
+- An efficient e2e crowd verifiable e-voting system<br>
    <span class="author-self">Xinyu Zhang</span>, Bingsheng Zhang, Aggelos Kiayias, Thomas Zacharias, Kui Ren<br>
-   **IEEE TDSC** **2021**
+   **IEEE TDSC** **2021**<br>
+   <a href="https://ieeexplore.ieee.org/abstract/document/9512489" class="paper-link">[PDF]</a>
 
 <!-- 隐私保护的加密流量检测研究<br>
    <span class="author-self">Xinyu Zhang</span>, Bingsheng Zhang, Quanrun Meng, Kui Ren<br>
    **CJNIS** **2021** · 网络与信息安全学报<br>
    [PDF](https://kns.cnki.net/kcms2/article/abstract?v=YFFVSRMG_GGija_TtPeryL2W2fTgqsVHBTv0RE45kA8z8qo7KKtZLKYO8Nbsb__kDi0iF8jzgTaIeyoXz1Bf9ZN5LCaYiO9ZulEc6Rp1s3JbNOOMTtMSqHG7hPHL4T9jZL7FeRkX1NUkFCXljR6kgHXgRDheVlnNnZPaPoxA3sMljKVHgrNiaQ==&uniplatform=NZKPT&language=CHS) -->
 
-- Learning-based Practical Smartphone Eavesdropping with Built-in Accelerometer, 
-   <a href="https://iqua.ece.toronto.edu/papers/tzheng-ndss20.pdf" class="paper-link">[PDF]</a><br>
+- Learning-based Practical Smartphone Eavesdropping with Built-in Accelerometer<br>
    Zhongjie Ba, Tianhang Zheng, <span class="author-self">Xinyu Zhang</span>, Zhan Qin, Baochun Li, Xue Liu, Kui Ren<br>
-   **NDSS** **2020** (Top4 Sec)
+   **NDSS** **2020** (Security Top 4)<br>
+   <a href="https://iqua.ece.toronto.edu/papers/tzheng-ndss20.pdf" class="paper-link">[PDF]</a>
 
-- CFP: Enabling camera fingerprint concealment for privacy-preserving image sharing, 
-   <a href="https://ieeexplore.ieee.org/abstract/document/8885093" class="paper-link">[PDF]</a><br>
+- CFP: Enabling camera fingerprint concealment for privacy-preserving image sharing<br>
    Zhongjie Ba, <span class="author-self">Xinyu Zhang</span>, Zhan Qin, Kui Ren<br>
-   **IEEE ICDCS** **2019**
+   **IEEE ICDCS** **2019**<br>
+   <a href="https://ieeexplore.ieee.org/abstract/document/8885093" class="paper-link">[PDF]</a>
 
 <!-- Scattering of an Airy light-sheet by a non-spherical particle using discrete dipole approximation<br>
     <span class="author-self">Xinyu Zhang</span>, Yiming Yang, Jiaming Zhang, Renxian Li<br>
