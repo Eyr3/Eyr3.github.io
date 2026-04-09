@@ -60,7 +60,7 @@ I'm always open to collaboration. Feel free to reach out at ixinyuzhang AT gmail
 
 - CultureSynth: A Hierarchical Taxonomy-Guided and Retrieval-Augmented Framework for Cultural Question-Answer Synthesis<br>
    <span class="author-self">Xinyu Zhang</span>, Pei Zhang, Shuang Luo, Jialong Tang, Yu Wan, Baosong Yang, Fei Huang<br>
-   **EMNLP** **2025** (Findings)<br>
+   **EMNLP** **2025** <br>
    <a href="https://aclanthology.org/2025.findings-emnlp.552.pdf" class="paper-link">[PDF]</a> <a href="https://github.com/Eyr3/CultureSynth" class="paper-link">[BENCHMARK]</a>
 
 - Certifiable Black-Box Attacks with Randomized Adversarial Examples: Breaking Defenses with Provable Confidence<br>
