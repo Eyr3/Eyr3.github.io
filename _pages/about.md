@@ -32,7 +32,7 @@ I'm always open to collaboration. Feel free to reach out at ixinyuzhang AT gmail
 
 # 🪐 News 
 <!-- 🌱 -->
-- *2026.04*: [*Qwen3.5-Omni*](https://qwen.ai/blog?id=qwen3.5-omni) is live: achieving SOTA results in audio-visual reasoning and supporting 113 languages for speech recognition.
+- *2026.04*: [*Qwen3.5-Omni*](https://qwen.ai/blog?id=qwen3.5-omni) is live: a native omni-modal LLM supporting 113 languages for speech recognition.
 - *2026.01*: Introducing open-source  [*Qwen3-ASR*](https://qwen.ai/blog?id=qwen3asr): robust, streaming, multilingual ASR.
 - *2026.01*: Our [*Qwen3-TTS*](https://qwen.ai/blog?id=qwen3tts-0115) family is now open sourced!
 - *2025.09*: Our [*Qwen3-Live-Translate*](https://qwen.ai/blog?id=b2de6ae8555599bf3b87eec55a285cdf496b78e4&from=research.latest-advancements-list) multimodal simultaneous translation API has been officially released!
