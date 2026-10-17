@@ -20,7 +20,7 @@ redirect_from:
 
 <!-- https://rayeren.github.io/, https://yubowen-ph.github.io/, https://jxu-thu.github.io/ -->
 
-I'm a researcher at Alibaba's Tongyi Lab, working on the safety, trustworthinese, and cultural inclusiveness of large language models. In parallel, I study speech understanding, generation and real-time interpretation.
+I'm a researcher at Alibaba Group's Qwen Team, working on large multimodal models for audio and video understanding. My research focuses on understanding long-form audio and video, advancing multilingual capabilities, and improving model safety and reliability.
 
 I earned my Ph.D. in 2024 from Zhejiang University, under the supervision of Prof. [Kui Ren](https://person.zju.edu.cn/kuiren) and Prof. [Zhongjie Ba](https://person.zju.edu.cn/zhongjieba), with joint guidance from Prof. [Yuan Hong](https://yhongcs.github.io/index.html) at the University of Connecticut. My research focuses on trustworthy AI, aiming to improve the safety, robustness, and privacy of multimodal models. 
 
@@ -134,6 +134,7 @@ I'm always open to collaboration. Feel free to reach out at ixinyuzhang AT gmail
 
 
 ### Technical Reports
+- [Qwen3.8-Omni: Towards Native Omni-Modal Agents](https://arxiv.org/pdf/2609.25611), Qwen Team, 2026.
 - [Qwen3.5-Omni Technical Report](https://arxiv.org/pdf/2604.15804), Qwen Team, 2026.
 - [Qwen3-ASR Technical Report](https://arxiv.org/abs/2601.21337), Qwen Team, 2026.
 - [Qwen3-TTS Technical Report](https://arxiv.org/pdf/2601.15621), Qwen Team, 2026.

@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xinyu Zhang"
-description              : "Trustworthy, Safe, and Culturally Inclusive LLMs; Speech Understanding."
+description              : "Large Multimodal Models; Multilingual Capabilities; Long-form Audio and Video; Multimodal Safety."
 repository               : "Eyr3/Eyr3.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xinyu Zhang"
   avatar           : "images/zxy_in_yantai_crop.jpg"  # "images/android-chrome-512x512.png"
-  bio              : "Tongyi Lab, Alibaba Group"
+  bio              : "Qwen Team, Alibaba Group"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
